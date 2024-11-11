@@ -1,0 +1,66 @@
+body {
+  background-color: darkslategrey;
+  background-image: url(../hack.jpg);
+  background-size:  cover;
+  background-position: center;
+}
+
+h4 {
+  color: white;
+}
+
+.menu {
+  color:red;
+  border: solid 1px;
+  border-radius: 50px;
+  border-collapse: separate;
+  margin: auto;
+  padding: 10px 20px;
+  display: ;
+  list-style: none;
+  border-color: white;
+  width: 30%;
+  background-color: ;
+}
+a {
+  color:red ;
+}
+
+.dom {
+  color: red;
+  border: solid;
+  border-color: grey;
+  border-width: 3px;
+  border-radius: 100px;
+  border-left: px;
+  border-right: px;
+  background-image: url(../200.jpg);
+  background-position: center;
+  background-color: aqua;
+}
+
+.button {
+  color: red;
+  background-color: black;
+  padding: 5px 20px;
+  touch-action: auto;
+}
+
+.opo {
+  color: white;
+  border: solid 3px;
+  border-color: blue;
+  background-image: url(../.jpg);
+  background-position: center;
+}
+
+
+
+
+'opo = é o texto central do site'
+'button = é o botao do site'
+'dom = é o nome do site'
+'menu = é o menu do site'
+'body = é a parte mais importante do site e 
+guarda a imagem central do site'
+
